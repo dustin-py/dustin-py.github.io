@@ -106,7 +106,7 @@ gtag: 'G-XVFHCKLG26'
 #google_analytics: ""
 
 # Google Tag Manager ID
- gtm: 'MX6R2RK'
+ gtm: GTM-MX6R2RK
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
