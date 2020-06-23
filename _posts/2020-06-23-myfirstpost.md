@@ -14,16 +14,16 @@ comments: true
 - ## **The Big Five**
   1. ### **Extraversion**
     - <ins>**Extraverted Individuales:**</ins> gain their energy from social interaction.
-        - Traits: energetic, talkative, and assertive.
+     - Traits: energetic, talkative, and assertive.
 
     - <ins>**Introverted Indeviduales:**</ins> are on the opposite side of the spectrum, intoverts gain their energy in isolation.
-        - Traits: quiet, withheld , and thoughtful individual.
+     - Traits: quiet, withheld , and thoughtful individual.
 
   1. ### **Emotional Stability**
   
     
     - <ins>**Emotionaly Stabel Individuales:**</ins> 
-        - *Inividuals that are emotionaly stable. Traits include being moody and tense.*
+     - *Inividuals that are emotionaly stable. Traits include being moody and tense.*
   
   1. **Agreeableness**
     - *These individuals are friendly, cooperative, and compassionate. Traits include being kind, affectionate, and sympathetic.*
