@@ -41,7 +41,7 @@ comments: true
          - Traits: consistent, cautious, ect.
          
          
->## Revisiting the complexity of the human brain, self identification was only the beginning of the marvel. That feat was followed by the realization of its complexities. This led to the exploration of personalities formed by the individual brain. [There are a number of various personality tests designed for just that(e.g. Myers-Brigg Type Indicator, Neo Pi-R, Eysenck Personality Questionaire, 16PF, Rorshach Test etc.) ]. These tests are used by schools to determine individual student interaction and by employers to determine the strengths and weaknesses of a potential employee. I'll be exploring if questions affect emotional state to provoke the answer, do negative words effect the decision? Alternatively, I'll be analyzing the general personalities of the test score population across multiple countries."
+Revisiting the complexity of the human brain, self identification was only the beginning of the marvel. That feat was followed by the realization of its complexities. This led to the exploration of personalities formed by the individual brain. [There are a number of various personality tests designed for just that(e.g. Myers-Brigg Type Indicator, Neo Pi-R, Eysenck Personality Questionaire, 16PF, Rorshach Test etc.) ]. These tests are used by schools to determine individual student interaction and by employers to determine the strengths and weaknesses of a potential employee. I'll be exploring if questions affect emotional state to provoke the answer, do negative words effect the decision? Alternatively, I'll be analyzing the general personalities of the test score population across multiple countries."
 
 
 #***Figure 1:***
