@@ -7,17 +7,19 @@ gh-badge: [star, fork, follow]
 tags: [big,five]
 comments: true
 ---
+## The human brain, what a marvel, it named itself...... Stop and take that in for a moment. Ok, now that we've gotten that exesticial wonder out of the way, we can get started.
 
-# **The Big Five**
-
-## The human brain, what a marvel, it named itself...... Stop and take that in for a moment. Ok, now that we've gotten that exesticial crises out of the way.
+When you list "The Big Five", the style changes after Emotional Stability. So "Extraversion: Extraverted traits, Emotional Stability: Emotionally Stable traits" then "Agreeableness: Agreeable individuals. Agreeable traits, and so on..." I like the second style, it shows how the traits listed shows in the individual.
 
 > ### We as humans with these magnificent blobs of wrikly gak in our heads, each have a personality that stem from a combination of base personality traits, we will call these traits "The Big Five";
 - **The Big Five**
   1. **Extraversion**
-    - *Extraversion includes the traits of energetic, talkative, and assertive.*
+    - Extraverted Individuales gain their energy from social interaction.
+     - Traits: energetic, talkative, and assertive.
+    - Introverted Indeviduales are on the opposite side of the spectrum, intoverts gain their energy in isolation.
+     - Traits: quiet, withheld , and thoughtful individual.
   1. **Emotional Stability**
-    - *Emotional Stability. Traits include being moody and tense.*
+    - *Inividuals that are emotionaly stable. Traits include being moody and tense.*
   1. **Agreeableness**
     - *These individuals are friendly, cooperative, and compassionate. Traits include being kind, affectionate, and sympathetic.*
   1. **Conscientiousness**
