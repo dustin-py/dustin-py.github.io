@@ -11,8 +11,8 @@ comments: true
 
 
 ### We as humans with these magnificent blobs of wrikly gak in our heads, each have a personality that stem from a combination of base personality traits, we will call these traits "The Big Five";
-- **The Big Five**
-  1. #### **Extraversion**
+- ##**The Big Five**
+  1. ### **Extraversion**
   
 
     - <ins>**Extraverted Individuales:**</ins> gain their energy from social interaction.
@@ -22,11 +22,11 @@ comments: true
     - <ins>**Introverted Indeviduales:**</ins> are on the opposite side of the spectrum, intoverts gain their energy in isolation.
         - Traits: quiet, withheld , and thoughtful individual.
 
-  1. **Emotional Stability**
+  1. ### **Emotional Stability**
   
     
     - <ins>**Emotionaly Stabel Individuales:**</ins> 
-    - *Inividuals that are emotionaly stable. Traits include being moody and tense.*
+        - *Inividuals that are emotionaly stable. Traits include being moody and tense.*
   
   1. **Agreeableness**
     - *These individuals are friendly, cooperative, and compassionate. Traits include being kind, affectionate, and sympathetic.*
