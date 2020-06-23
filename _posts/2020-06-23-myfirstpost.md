@@ -11,10 +11,11 @@ comments: true
 
 
 ### We as humans with these magnificent blobs of wrikly gak in our heads, each have a personality that stem from a combination of base personality traits, we will call these traits "The Big Five";
-- ##**The Big Five**
+- ## **The Big Five**
   1. ### **Extraversion**
-   >- <ins>**Extraverted Individuales:**</ins> gain their energy from social interaction.
+    - <ins>**Extraverted Individuales:**</ins> gain their energy from social interaction.
         - Traits: energetic, talkative, and assertive.
+
     - <ins>**Introverted Indeviduales:**</ins> are on the opposite side of the spectrum, intoverts gain their energy in isolation.
         - Traits: quiet, withheld , and thoughtful individual.
 
