@@ -1,3 +1,13 @@
+--
+layout: post
+title: The Big Five
+subtitle: Analyze the Big Five personality traits.
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [big,five]
+comments: true
+---
+
 # **The Big Five**
 
 ## The human brain, what a marvel, it named itself...... Stop and take that in for a moment. Ok, now that we've gotten that exesticial crises out of the way.
