@@ -11,28 +11,23 @@ comments: true
 
 
 ### We as humans with these magnificent blobs of wrikly gak in our heads, each have a personality that stem from a combination of base personality traits, we will call these traits "The Big Five";
-- ## **The Big Five**
-  1. ### **Extraversion**
+## **The Big Five**
+1. ### **Extraversion**
     - <ins>**Extraverted Individuales:**</ins> gain their energy from social interaction.
-     - Traits: energetic, talkative, and assertive.
-
+        - Traits: energetic, talkative, and assertive.
     - <ins>**Introverted Indeviduales:**</ins> are on the opposite side of the spectrum, intoverts gain their energy in isolation.
-     - Traits: quiet, withheld , and thoughtful individual.
-
-  1. ### **Emotional Stability**
-  
-    
+        - Traits: quiet, withheld , and thoughtful individual.
+1. ### **Emotional Stability**
     - <ins>**Emotionaly Stabel Individuales:**</ins> 
-     - *Inividuals that are emotionaly stable. Traits include being moody and tense.*
-  
-  1. **Agreeableness**
-    - *These individuals are friendly, cooperative, and compassionate. Traits include being kind, affectionate, and sympathetic.*
-  
-  1. **Conscientiousness**
-    - *Persons wishing to do what is right, especially to do one's work or duty well and thoroughly. Traits include being organized, methodic, and thorough.*
-  
-  1. **Openness**
-    - *People who like to learn new things and enjoy new experiences. Traits like being insightful and imaginative and having a wide variety of interests.*
+         - *Inividuals that are emotionaly stable. Traits include being moody and tense.*
+1. **Agreeableness**
+  - *These individuals are friendly, cooperative, and compassionate. Traits include being kind, affectionate, and sympathetic.*
+
+1. **Conscientiousness**
+  - *Persons wishing to do what is right, especially to do one's work or duty well and thoroughly. Traits include being organized, methodic, and thorough.*
+
+1. **Openness**
+  - *People who like to learn new things and enjoy new experiences. Traits like being insightful and imaginative and having a wide variety of interests.*
 
 >### Sorry to do this to you, but I'm gonna poke at the complexity of the brain again. So, our brains decided that nameing itself wasn't a great enough feat, therefore it continued to search the cosmos of curiosity and dive into why. Which led to examining the personalities of each brain. Now these test are used in schools to get a general idea of how to interact with that individuale student or in employment processes to see the strengths of a possible employee.
 
