@@ -22,23 +22,23 @@ comments: true
 1. ### **Neuroticism**
     - <ins>**Neurotic Individuales:**</ins> 
          - Traits: irrational, anxious, moody, etc.
-    - <ins>**Non-Neurotic Individales:</ins>
+    - <ins>**Non-Neurotic Individales:**</ins>
          - Traits: confident, relaxed, emotionaly stable, etc.
 1. ### **Agreeableness**
     - <ins>**Agreeable Individuales:**</ins> 
          - Traits: cooperative, warm, considerate, etc.
-    - <ins>**Dissagreeable Individales:</ins>
+    - <ins>**Dissagreeable Individales:**</ins>
          - Traits: challenging, opposing, etc.
 1. ### **Conscientiousness**
     - <ins>**Conscientious Individuales:**</ins> 
          - Traits: organized, methodic, thorough, etc.
-    - <ins>**Less conscientious Individales:</ins>
+    - <ins>**Less conscientious Individales:**</ins>
          - Traits: chaotic, messy, etc.
 1. ### **Openness**
   - *People who like to learn new things and enjoy new experiences. Traits like being insightful and imaginative and having a wide variety of interests.*
     - <ins>**Open Individuales:**</ins> 
          - Traits: inquisitive, imaginative, curious, etc.
-    - <ins>**Closed Individales:</ins>
+    - <ins>**Closed Individales:**</ins>
          - Traits: consistent, cautious, ect.
          
          
