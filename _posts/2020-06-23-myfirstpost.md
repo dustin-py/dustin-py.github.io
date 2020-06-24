@@ -60,6 +60,7 @@ Sentiment analysis is the interpretation and classification of emotions (positiv
 
 
 ### ***Figure 2:***
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/5.embed"></iframe>
 
 >Above in ***figure 2*** is a heatmap displaying the average test scores per section from each of the top 20 countries with the most tests submitted. 
 
