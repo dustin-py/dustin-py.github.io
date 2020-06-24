@@ -53,7 +53,7 @@ Alternatively, I'll be analyzing the general personalities of the test score pop
 
 
 ### ***Figure 1:***
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/9.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/13.embed"></iframe>
 
 Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
 
@@ -62,7 +62,7 @@ Here in ***figure 1*** we can see the sentiment analysis of each question. The b
 
 
 ### ***Figure 2:***
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/11.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/15.embed"></iframe>
 
 Above in ***figure 2*** is a heatmap displaying the average test scores per section from each of the top 20 countries with the most tests submitted. 
 
