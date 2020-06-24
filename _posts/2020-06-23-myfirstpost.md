@@ -11,7 +11,7 @@ comments: true
 The human brain, what a marvel, it named itself...... Stop and take that in for a moment. Ok, now that we've gotten that exesticial wonder out of the way, we can get started. 
 We as humans with these magnificent blobs of wrikly gak in our heads, each have a personality that stem from a combination of base personality traits, we will call these traits "The Big Five".
 
-<img src="https://github.com/dustin-py/dustin-py.github.io/blob/master/bildbrain.jpg"></img>
+<img src="https://cdn.pixabay.com/photo/2014/11/01/18/21/brain-512758__340.png">
 
 
 ### **The Big Five**
