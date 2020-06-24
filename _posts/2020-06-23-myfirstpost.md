@@ -68,7 +68,9 @@ Above in ***figure 2*** is a heatmap displaying the average test scores per sect
 
 ## **Sources:**
 - **Kaggle Dataset:** <a href="https://www.kaggle.com/tunguz/big-five-personality-test">
+
 - **Country Abbreviations:** <a href="https://sustainablesources.com/resources/country-abbreviations/">
-- **Extra Info:** 
-    - <a href="https://www.123test.com/big-five-personality-theory/">    
-    - <a href="https://en.wikipedia.org/wiki/Big_Five_personality_traits">
+
+- **Extra Info:** <a href="https://www.123test.com/big-five-personality-theory/">    
+
+- **Big Five Wiki:** <a href="https://en.wikipedia.org/wiki/Big_Five_personality_traits">
