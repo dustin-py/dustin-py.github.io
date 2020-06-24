@@ -2,9 +2,9 @@
 layout: post
 title: The Big Five
 subtitle: Analyze the Big Five personality traits.
-gh-repo: daattali/beautiful-jekyll
+gh-repo: https://github.com/dustin-py/Unit_1_Build
 gh-badge: [star, fork, follow]
-tags: [big,five]
+tags: [big,five,personalities]
 comments: true
 ---
 
