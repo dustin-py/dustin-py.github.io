@@ -40,6 +40,7 @@ Here we will look at a specific test geared towards five base personality traits
 |<ins>Open Individuales:</ins> | Traits: inquisitive, imaginative, curious, etc.|
 |<ins>Closed Individales:</ins> | Traits: consistent, cautious, ect.|
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -59,14 +60,12 @@ Here we will look at a specific test geared towards five base personality traits
   <tr>
     <th class="tg-g7sd">**Extraversion**</th>
 
->
->
->
->
 
 
 ### ***Figure 1:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/15.embed"></iframe>
+
+
 Above in ***figure 1*** is a barchart displaying the average results of test scores in each trait by the top 20 countries that yeilded the most results. Also, to fine tune my observations this is only displaying test results from a single IP address. In other words, no test comes from the same network each is unique. The buttons on the right can be toggled to specify the trait that you would like to view. 
 
 
