@@ -146,6 +146,9 @@ Here in ***figure 2*** we can see the sentiment analysis of each question. The b
 Above in ***figure 3*** we can see generaly how much time was spent on tests by countries population of test results.
 
 
+## Thanks for sticking around and I hope you were able to learn something from my findings! 
+
+
 ## Here is a quick video that has a fun way of explaing traits a little further:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IB1FVbo8TSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
