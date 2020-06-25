@@ -64,6 +64,29 @@ Here in ***figure 1*** we can see the sentiment analysis of each question. The b
 ### ***Figure 2:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/15.embed"></iframe>
 
+| Country Abbreviation | Country Name |
+| --- | --- |
+| US | United States  | 
+| GB | United Kingdom |
+| CA | Canada         |        
+| AU | Australia      |   
+| DE | Germany        |
+| IN | India          |
+| PH | Phillippines   |
+| MX | Mexico         |
+| NO | Norway         |
+| NL | Netherlands    |
+| SE | Sweden         |
+| MY | Malaysia       |
+| NZ | New Zealand    |
+| ID | Indonesia      |
+| BR | Brazil         |
+| SG | Singapor       |
+| FR | France         |
+| IT | Italy          |
+| ES | Spain          |
+| PL | Poland         |
+
 Above in ***figure 2*** is a heatmap displaying the average test scores per section from each of the top 20 countries with the most tests submitted. 
 
 ## Sources:
