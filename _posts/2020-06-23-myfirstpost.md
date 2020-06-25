@@ -1,16 +1,12 @@
 ---
 layout: post
 title: The Big Five
-subtitle: Analyze the Big Five personality traits.
+subtitle: ## Is there a large difference in base personality traits of individuals amongst a range of countries?.
 gh-repo: https://github.com/dustin-py/Unit_1_Build
 gh-badge: [star, fork, follow]
 tags: [big,five,personalities]
 comments: true
 ---
-
-## Question: 
-Is there a large difference in base personality traits of individuals amongst a range of countries?
-
 
 <img src="https://i0.wp.com/themorningpeptalk.com//wp-content/uploads/2019/03/character.jpg?resize=640%2C640&ssl=1">
 
