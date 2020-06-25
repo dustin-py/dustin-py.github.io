@@ -43,7 +43,7 @@ We as humans with these magnificent blobs of wrikly gak in our heads, each have 
          
          
 
-| The Big Five |
+| The Big Five ||
 | --- | --- |
 |1. **Extraversion**                                           |  1. **Conscientiousness** |
     - <ins>**Extraverted Individuales:**</ins>                        - <ins>**Conscientious Individuales:**</ins>  
