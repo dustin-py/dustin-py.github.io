@@ -20,75 +20,79 @@ Here we will look at a specific test geared towards five base personality traits
 # **The Big Five**
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-uca5{text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg  {border:none;border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:0px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 3px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:0px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 3px;word-break:normal;}
+.tg .tg-no2w{background-color:#64d3f3;border-color:#64d3f3;font-size:18px;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-9jgk{background-color:#000000;border-color:#64d3f3;color:#ffffff;font-size:18px;font-weight:bold;text-align:center;
+  vertical-align:top}
+.tg .tg-qtxe{background-color:#64d3f3;border-color:#64d3f3;font-size:18px;font-weight:bold;text-align:left;
+  text-decoration:underline;vertical-align:top}
+.tg .tg-75r4{background-color:#000000;border-color:#64d3f3;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
+<thead>
+  <tr>
+    <th class="tg-75r4" colspan="2">Extraversion</th>
+  </tr>
+</thead>
 <tbody>
   <tr>
-    <td class="tg-yla0" colspan="2">                                        Extraversion</td>
+    <td class="tg-qtxe">Extraverted Individuales:</td>
+    <td class="tg-no2w">Traits: energetic, talkative, assertive, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5">Extraverted Individuales:</td>
-    <td class="tg-cly1">Traits: energetic, talkative, assertive, etc.</td>
+    <td class="tg-qtxe">Introverted Indeviduales:</td>
+    <td class="tg-no2w">Traits: quiet, withheld , thoughtful, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5">Introverted Indeviduales:</td>
-    <td class="tg-cly1">Traits: quiet, withheld , thoughtful, etc.</td>
+    <td class="tg-9jgk" colspan="2">Neuroticism</td>
   </tr>
   <tr>
-    <td class="tg-yla0" colspan="2">                                         Neuroticism</td>
+    <td class="tg-qtxe">Neurotic Individuales:</td>
+    <td class="tg-no2w">Traits: irrational, anxious, moody, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5">Neurotic Individuales:</td>
-    <td class="tg-cly1">Traits: irrational, anxious, moody, etc.</td>
+    <td class="tg-qtxe">Non-Neurotic Individales:</td>
+    <td class="tg-no2w">Traits: confident, relaxed, emotionaly stable, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5">Non-Neurotic Individales:</td>
-    <td class="tg-cly1">Traits: confident, relaxed, emotionaly stable, etc.</td>
+    <td class="tg-9jgk" colspan="2">Agreeableness</td>
   </tr>
   <tr>
-    <td class="tg-yla0" colspan="2">                                       Agreeableness</td>
+    <td class="tg-qtxe">Agreeable Individuales:</td>
+    <td class="tg-no2w">Traits: cooperative, warm, considerate, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5">Agreeable Individuales:</td>
-    <td class="tg-cly1">Traits: cooperative, warm, considerate, etc.</td>
+    <td class="tg-qtxe">Dissagreeable Individales:</td>
+    <td class="tg-no2w">Traits: challenging, opposing, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5">Dissagreeable Individales:</td>
-    <td class="tg-cly1">Traits: challenging, opposing, etc.</td>
+    <td class="tg-9jgk" colspan="2">Conscientiousness</td>
   </tr>
   <tr>
-    <td class="tg-yla0" colspan="2">                                   Conscientiousness</td>
+    <td class="tg-qtxe">Conscientious Individuales:</td>
+    <td class="tg-no2w">Traits: organized, methodic, thorough, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5">Conscientious Individuales:</td>
-    <td class="tg-cly1">Traits: organized, methodic, thorough, etc.</td>
+    <td class="tg-qtxe">Less conscientious Individales:</td>
+    <td class="tg-no2w">Traits: chaotic, messy, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5">Less conscientious Individales:</td>
-    <td class="tg-cly1">Traits: chaotic, messy, etc.</td>
+    <td class="tg-9jgk" colspan="2">Openness</td>
   </tr>
   <tr>
-    <td class="tg-yla0" colspan="2">                                          Openness</td>
+    <td class="tg-qtxe">Open Individuales:</td>
+    <td class="tg-no2w">Traits: inquisitive, imaginative, curious, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5">Open Individuales:</td>
-    <td class="tg-cly1">Traits: inquisitive, imaginative, curious, etc.</td>
-  </tr>
-  <tr>
-    <td class="tg-uca5">Closed Individales:</td>
-    <td class="tg-cly1">Traits: consistent, cautious, ect.</td>
+    <td class="tg-qtxe">Closed Individales:</td>
+    <td class="tg-no2w">Traits: consistent, cautious, ect.</td>
   </tr>
 </tbody>
 </table>
-
 
 ### ***Figure 1:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/15.embed"></iframe>
