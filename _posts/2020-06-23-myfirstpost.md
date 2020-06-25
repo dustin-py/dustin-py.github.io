@@ -21,7 +21,7 @@ Here we will look at a specific test geared towards five base personality traits
 
 <style type="text/css">
 .tg  {background:none;border-collapse:collapse;border-spacing:0;}
-.tg td{background:none;border-color:none;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+.tg td{bg-color:none;border-color:none;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cly1{text-align:left;vertical-align:middle}
 .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
