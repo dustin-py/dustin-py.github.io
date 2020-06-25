@@ -8,7 +8,7 @@ tags: [big,five,personalities]
 comments: true
 ---
 
-<img src="https://i0.wp.com/themorningpeptalk.com//wp-content/uploads/2019/03/character.jpg?resize=640%2C640&ssl=1">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAH_KrCbpy8DQyNZqm6cZl1hofjitdsxRKCA&usqp=CAU">
 
 
 Personality, the combination of characteristics or qualities that form an individual's distinctive character. These characteristics or qualities are personality traits, which reflect people's characteristic patterns of thoughts, feelings, and behaviors. Personality traits imply consistency and stability.
