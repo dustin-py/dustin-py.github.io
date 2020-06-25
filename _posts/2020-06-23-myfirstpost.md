@@ -10,11 +10,14 @@ comments: true
 
 Personality, the combination of characteristics or qualities that form an individual's distinctive character. These characteristics or qualities are personality traits, which reflect people's characteristic patterns of thoughts, feelings, and behaviors. Personality traits imply consistency and stability.
 
+
 ## Question: 
-Does an individuales surroundings determine the base personality traits that the idividual will likely have?
+Is there a large difference in base personality traits of individuals amongst a range of countries?
 
 
 <img src="https://i0.wp.com/themorningpeptalk.com//wp-content/uploads/2019/03/character.jpg?resize=640%2C640&ssl=1">
+
+
 
 
 Here we will look at a specific test geared towards five base personality traits called, "The Big Five", also know as OCEAN.
@@ -83,7 +86,7 @@ Here in ***figure 2*** we can see the sentiment analysis of each question. The b
 
 
 ## Sources:
-- <a href="https://openpsychometrics.org/tests/IPIP-BFFM/">Take the Test yourself!</a>
+- <a href="https://openpsychometrics.org/tests/IPIP-BFFM/">**Take the Test yourself!**</a>
 - <a href="https://colab.research.google.com/drive/1S1Py8KFCspoBv734XBdzFtnHsuo21GDF?usp=sharing">**IPython Notebook**</a>
 - <a href="https://www.kaggle.com/tunguz/big-five-personality-test">**Kaggle Dataset**</a>
 - <a href="https://sustainablesources.com/resources/country-abbreviations/">**Country Abbreviations**</a>
