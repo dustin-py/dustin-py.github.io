@@ -25,12 +25,12 @@ Here we will look at a specific test geared towards five base personality traits
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 3px;word-break:normal;}
 .tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:0px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 3px;word-break:normal;}
+.tg .tg-9kac{background-color:#68cbd0;border-color:#000000;font-size:24px;font-weight:bold;text-align:left;
+  text-decoration:underline;vertical-align:top}
 .tg .tg-mioz{background-color:#000000;border-color:#000000;color:#ffffff;font-size:24px;font-weight:bold;text-align:center;
   vertical-align:top}
 .tg .tg-g329{background-color:#000000;border-color:#000000;font-size:24px;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-6876{background-color:#38fff8;border-color:#000000;font-size:24px;font-weight:bold;text-align:left;
-  text-decoration:underline;vertical-align:top}
-.tg .tg-9e1o{background-color:#38fff8;border-color:#000000;font-size:24px;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-tlk6{background-color:#68cbd0;border-color:#000000;font-size:24px;font-style:italic;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -40,56 +40,56 @@ Here we will look at a specific test geared towards five base personality traits
 </thead>
 <tbody>
   <tr>
-    <td class="tg-6876">Extraverted Individuales:</td>
-    <td class="tg-9e1o">Traits: energetic, talkative, assertive, etc.</td>
+    <td class="tg-9kac">Extraverted Individuales:</td>
+    <td class="tg-tlk6">Traits: energetic, talkative, assertive, etc.</td>
   </tr>
   <tr>
-    <td class="tg-6876">Introverted Indeviduales:</td>
-    <td class="tg-9e1o">Traits: quiet, withheld , thoughtful, etc.</td>
+    <td class="tg-9kac">Introverted Indeviduales:</td>
+    <td class="tg-tlk6">Traits: quiet, withheld , thoughtful, etc.</td>
   </tr>
   <tr>
     <td class="tg-mioz" colspan="2">Neuroticism</td>
   </tr>
   <tr>
-    <td class="tg-6876">Neurotic Individuales:</td>
-    <td class="tg-9e1o">Traits: irrational, anxious, moody, etc.</td>
+    <td class="tg-9kac">Neurotic Individuales:</td>
+    <td class="tg-tlk6">Traits: irrational, anxious, moody, etc.</td>
   </tr>
   <tr>
-    <td class="tg-6876">Non-Neurotic Individales:</td>
-    <td class="tg-9e1o">Traits: confident, relaxed, emotionaly stable, etc.</td>
+    <td class="tg-9kac">Non-Neurotic Individales:</td>
+    <td class="tg-tlk6">Traits: confident, relaxed, emotionaly stable, etc.</td>
   </tr>
   <tr>
     <td class="tg-mioz" colspan="2">Agreeableness</td>
   </tr>
   <tr>
-    <td class="tg-6876">Agreeable Individuales:</td>
-    <td class="tg-9e1o">Traits: cooperative, warm, considerate, etc.</td>
+    <td class="tg-9kac">Agreeable Individuales:</td>
+    <td class="tg-tlk6">Traits: cooperative, warm, considerate, etc.</td>
   </tr>
   <tr>
-    <td class="tg-6876">Dissagreeable Individales:</td>
-    <td class="tg-9e1o">Traits: challenging, opposing, etc.</td>
+    <td class="tg-9kac">Dissagreeable Individales:</td>
+    <td class="tg-tlk6">Traits: challenging, opposing, etc.</td>
   </tr>
   <tr>
     <td class="tg-mioz" colspan="2">Conscientiousness</td>
   </tr>
   <tr>
-    <td class="tg-6876">Conscientious Individuales:</td>
-    <td class="tg-9e1o">Traits: organized, methodic, thorough, etc.</td>
+    <td class="tg-9kac">Conscientious Individuales:</td>
+    <td class="tg-tlk6">Traits: organized, methodic, thorough, etc.</td>
   </tr>
   <tr>
-    <td class="tg-6876">Less conscientious Individales:</td>
-    <td class="tg-9e1o">Traits: chaotic, messy, etc.</td>
+    <td class="tg-9kac">Less conscientious Individales:</td>
+    <td class="tg-tlk6">Traits: chaotic, messy, etc.</td>
   </tr>
   <tr>
     <td class="tg-mioz" colspan="2">Openness</td>
   </tr>
   <tr>
-    <td class="tg-6876">Open Individuales:</td>
-    <td class="tg-9e1o">Traits: inquisitive, imaginative, curious, etc.</td>
+    <td class="tg-9kac">Open Individuales:</td>
+    <td class="tg-tlk6">Traits: inquisitive, imaginative, curious, etc.</td>
   </tr>
   <tr>
-    <td class="tg-6876">Closed Individales:</td>
-    <td class="tg-9e1o">Traits: consistent, cautious, ect.</td>
+    <td class="tg-9kac">Closed Individales:</td>
+    <td class="tg-tlk6">Traits: consistent, cautious, ect.</td>
   </tr>
 </tbody>
 </table>
