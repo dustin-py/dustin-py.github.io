@@ -42,36 +42,6 @@ We as humans with these magnificent blobs of wrikly gak in our heads, each have 
          - Traits: consistent, cautious, ect.
          
          
-
-| The Big Five ||
-| --- | --- |
-|**Extraversion**                                           | **Conscientiousness** |
-|- <ins>**Extraverted Individuales:**</ins>                 |  - <ins>**Conscientious Individuales:**</ins>|  
-|- Traits: energetic, talkative, assertive, etc.            |  - Traits: organized, methodic, thorough, etc.|
-|- <ins>**Introverted Indeviduales:**</ins>                 |  - <ins>**Less conscientious Individales:**</ins>|
-|- Traits: quiet, withheld , thoughtful, etc.               |  - Traits: chaotic, messy, etc.|
-|**Neuroticism**                                            | **Openness**         |  
-|- <ins>**Neurotic Individuales:**</ins>                    |  - <ins>**Open Individuales:**</ins>|
-|- Traits: irrational, anxious, moody, etc.                 | - Traits: inquisitive, imaginative, curious, etc.|
-|- <ins>**Non-Neurotic Individales:**</ins>                 |  - <ins>**Closed Individales:**</ins> |
-|- Traits: confident, relaxed, emotionaly stable, etc.      |  - Traits: consistent, cautious, ect.|
-|**Agreeableness**                                          |
-|- <ins>**Agreeable Individuales:**</ins>                   
-|- Traits: cooperative, warm, considerate, etc.             
-|- <ins>**Dissagreeable Individales:**</ins>                
-|- Traits: challenging, opposing, etc.                      
-
-
-
-
-
-
-         
-         
-         
-         
-         
-         
 Revisiting the complexity of the human brain, self identification was only the beginning of the marvel. That feat was followed by the realization of its complexities. This led to the exploration of personalities formed by the individual brain.
 
 
