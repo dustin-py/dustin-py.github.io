@@ -9,32 +9,34 @@ comments: true
 ---
 
 The human brain, what a marvel, it named itself...... Stop and take that in for a moment. Ok, now that we've gotten that exesticial wonder out of the way, we can get started. 
-We as humans with these magnificent blobs of wrikly gak in our heads, each have a personality that stem from a combination of base personality traits, we will call these traits "The Big Five".
+
+## Research Topic:
 
 <img src="https://cdn.pixabay.com/photo/2014/11/01/18/21/brain-512758__340.png">
 
 
-|**The Big Five**| |
+# **The Big Five**
+
+|**Extraversion**||
 |---|---|
-|**Extraversion**| |
-|<ins>**Extraverted Individuales:**</ins> | Traits: energetic, talkative, assertive, etc.|
-|<ins>**Introverted Indeviduales:**</ins> | Traits: quiet, withheld , thoughtful, etc.|
+|<ins>Extraverted Individuales:</ins> | Traits: energetic, talkative, assertive, etc.|
+|<ins>Introverted Indeviduales:</ins> | Traits: quiet, withheld , thoughtful, etc.|
 |---|---|
 |**Neuroticism**||
-|<ins>**Neurotic Individuales:**</ins> | Traits: irrational, anxious, moody, etc.|
-|<ins>**Non-Neurotic Individales:**</ins> | Traits: confident, relaxed, emotionaly stable, etc.|
+|<ins>Neurotic Individuales:</ins> | Traits: irrational, anxious, moody, etc.|
+|<ins>Non-Neurotic Individales:</ins> | Traits: confident, relaxed, emotionaly stable, etc.|
 |---|---|
 |**Agreeableness**||
-|<ins>**Agreeable Individuales:**</ins> | Traits: cooperative, warm, considerate, etc.|
-|<ins>**Dissagreeable Individales:**</ins> | Traits: challenging, opposing, etc.|
+|<ins>Agreeable Individuales:</ins> | Traits: cooperative, warm, considerate, etc.|
+|<ins>Dissagreeable Individales:</ins> | Traits: challenging, opposing, etc.|
 |---|---|
 |**Conscientiousness**||
-|<ins>**Conscientious Individuales:**</ins> | Traits: organized, methodic, thorough, etc.|
-|<ins>**Less conscientious Individales:**</ins> | Traits: chaotic, messy, etc.|
+|<ins>Conscientious Individuales:</ins> | Traits: organized, methodic, thorough, etc.|
+|<ins>Less conscientious Individales:</ins> | Traits: chaotic, messy, etc.|
 |---|---|
 |**Openness** ||
-|<ins>**Open Individuales:**</ins> | Traits: inquisitive, imaginative, curious, etc.|
-|<ins>**Closed Individales:**</ins> | Traits: consistent, cautious, ect.|
+|<ins>Open Individuales:</ins> | Traits: inquisitive, imaginative, curious, etc.|
+|<ins>Closed Individales:</ins> | Traits: consistent, cautious, ect.|
          
          
 Revisiting the complexity of the human brain, self identification was only the beginning of the marvel. That feat was followed by the realization of its complexities. This led to the exploration of personalities formed by the individual brain.
