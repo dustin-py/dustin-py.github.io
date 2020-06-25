@@ -130,9 +130,11 @@ Another Ineresting finding was that Malaysia ranked highest is Extroversion and 
 
 
 
-### ***Figure 2:***
-Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
 
+**Sentiment analysis** is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques. 
+
+
+#### ***Figure 2:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/13.embed"></iframe>
 
 Here in ***figure 2*** we can see the sentiment analysis of each question. The blue bars show the polarity on a scale from -1 to 1, where -1 shows negative emotion, 0 is neutral or no emotion, and  1 represents postive emotion. The green bars show the subjectivity on a scale 0 to 1, where 0 means that the sentiment is objective(fact) and 1 means that the sentiment is subjective(open to interpritation). 
