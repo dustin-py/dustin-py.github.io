@@ -55,11 +55,11 @@ We as humans with these magnificent blobs of wrikly gak in our heads, each have 
 |- Traits: irrational, anxious, moody, etc.                 | - Traits: inquisitive, imaginative, curious, etc.|
 |- <ins>**Non-Neurotic Individales:**</ins>                 |  - <ins>**Closed Individales:**</ins> |
 |- Traits: confident, relaxed, emotionaly stable, etc.      |  - Traits: consistent, cautious, ect.|
-|**Agreeableness**                                          ||
-|- <ins>**Agreeable Individuales:**</ins>                   ||
-|- Traits: cooperative, warm, considerate, etc.             ||
-|- <ins>**Dissagreeable Individales:**</ins>                ||
-|- Traits: challenging, opposing, etc.                      ||
+|**Agreeableness**                                          |
+|- <ins>**Agreeable Individuales:**</ins>                   
+|- Traits: cooperative, warm, considerate, etc.             
+|- <ins>**Dissagreeable Individales:**</ins>                
+|- Traits: challenging, opposing, etc.                      
 
 
 
