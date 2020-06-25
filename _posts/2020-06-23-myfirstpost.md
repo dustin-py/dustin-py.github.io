@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Big Five
-subtitle: <b>Is there a large difference in base personality traits of individuals amongst a range of countries?</b>
+subtitle: <b>Is there a large difference in base personality traits of individuals among a range of countries?</b>
 gh-repo: https://github.com/dustin-py/Unit_1_Build
 gh-badge: [star, fork, follow]
 tags: [big,five,personalities]
@@ -35,60 +35,60 @@ Here we will look at a specific test geared towards five base personality traits
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-g329" colspan="2">Extraversion</th>
+    <th class="tg-g329" colspan="2">Extroversion</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9kac">Extraverted Individuales:</td>
+    <td class="tg-9kac">Extroverted Individuals:</td>
     <td class="tg-tlk6">Traits: energetic, talkative, assertive, etc.</td>
   </tr>
   <tr>
-    <td class="tg-9kac">Introverted Indeviduales:</td>
+    <td class="tg-9kac">Introverted Individuals:</td>
     <td class="tg-tlk6">Traits: quiet, withheld , thoughtful, etc.</td>
   </tr>
   <tr>
     <td class="tg-mioz" colspan="2">Neuroticism</td>
   </tr>
   <tr>
-    <td class="tg-9kac">Neurotic Individuales:</td>
+    <td class="tg-9kac">Neurotic Individuals:</td>
     <td class="tg-tlk6">Traits: irrational, anxious, moody, etc.</td>
   </tr>
   <tr>
-    <td class="tg-9kac">Non-Neurotic Individales:</td>
-    <td class="tg-tlk6">Traits: confident, relaxed, emotionaly stable, etc.</td>
+    <td class="tg-9kac">Non-Neurotic Individuals:</td>
+    <td class="tg-tlk6">Traits: confident, relaxed, emotionally stable, etc.</td>
   </tr>
   <tr>
     <td class="tg-mioz" colspan="2">Agreeableness</td>
   </tr>
   <tr>
-    <td class="tg-9kac">Agreeable Individuales:</td>
+    <td class="tg-9kac">Agreeable Individuals:</td>
     <td class="tg-tlk6">Traits: cooperative, warm, considerate, etc.</td>
   </tr>
   <tr>
-    <td class="tg-9kac">Dissagreeable Individales:</td>
+    <td class="tg-9kac">Disagreeable Individuals:</td>
     <td class="tg-tlk6">Traits: challenging, opposing, etc.</td>
   </tr>
   <tr>
     <td class="tg-mioz" colspan="2">Conscientiousness</td>
   </tr>
   <tr>
-    <td class="tg-9kac">Conscientious Individuales:</td>
+    <td class="tg-9kac">Conscientious Individuals:</td>
     <td class="tg-tlk6">Traits: organized, methodic, thorough, etc.</td>
   </tr>
   <tr>
-    <td class="tg-9kac">Less conscientious Individales:</td>
+    <td class="tg-9kac">Less conscientious Individuals:</td>
     <td class="tg-tlk6">Traits: chaotic, messy, etc.</td>
   </tr>
   <tr>
     <td class="tg-mioz" colspan="2">Openness</td>
   </tr>
   <tr>
-    <td class="tg-9kac">Open Individuales:</td>
+    <td class="tg-9kac">Open Individuals:</td>
     <td class="tg-tlk6">Traits: inquisitive, imaginative, curious, etc.</td>
   </tr>
   <tr>
-    <td class="tg-9kac">Closed Individales:</td>
+    <td class="tg-9kac">Closed Individuals:</td>
     <td class="tg-tlk6">Traits: consistent, cautious, ect.</td>
   </tr>
 </tbody>
@@ -100,26 +100,26 @@ Here we will look at a specific test geared towards five base personality traits
 
 
 ## Now, time to explore:
-I wanted to know if there were significant  difference in base personality traits of individuals amongst a range of countries?
+I wanted to know if there were significant  difference in base personality traits of individuals among a range of countries?
 
 #### ***Figure 1:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/15.embed"></iframe>
 
 
-- Above in ***figure 1*** is a barchart displaying the average results of test scores in each trait by the top 20 countries that yeilded the most results. Also, to fine tune my observations this is only displaying test results from a single IP address. In other words, no test comes from the same network each is unique. The buttons on the right can be toggled to specify the trait that you would like to view. 
+- Above in ***figure 1*** is a bar-chart displaying the average results of test scores in each trait by the top 20 countries that yielded the most results. Also, to fine tune my observations this is only displaying test results from a single IP address. In other words, no test comes from the same network each is unique. The buttons on the right can be toggled to specify the trait that you would like to view. 
 
 
-| Country Abbreviation | Country Name | |  Country Abbreviation | Country Name |
+Country Abbreviation | Country Name | |  Country Abbreviation | Country Name |
 | --- | --- | --- |--- | ---|     
 | AU | Australia      | | MX | Mexico         |  
 | BR | Brazil         | | MY | Malaysia       |
 | CA | Canada         | | NL | Netherlands    |       
 | DE | Germany        | | NO | Norway         |
 | ES | Spain          | | NZ | New Zealand    |
-| FR | France         | | PH | Phillippines   |
+| FR | France         | | PH | Philippines   |
 | GB | United Kingdom | | PL | Poland         |
 | ID | Indonesia      | | SE | Sweden         |
-| IN | India          | | SG | Singapor       |
+| IN | India          | | SG | Singapore       |
 | IT | Italy          | | US | United States  |
 
 
@@ -128,7 +128,7 @@ I wanted to know if there were significant  difference in base personality trait
 
 ## Conclusion:
 After observing the data in ***figure 1*** we can see that there are in fact significant differences in base personality traits depending on the country the individual test taker was from. 
-Another Ineresting finding was that Malaysia ranked highest is Extroversion and Agreeableness, but to my suprise the countries overall ranking in Openness was one of the lowest amongst the countries.
+Another Interesting finding was that Malaysia ranked highest is Extroversion and Agreeableness, but to my surprise the countries overall ranking in Openness was one of the lowest among the countries.
 
 
 ---
@@ -146,13 +146,17 @@ Another Ineresting finding was that Malaysia ranked highest is Extroversion and 
 #### ***Figure 2:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/13.embed"></iframe>
 
-- Here in ***figure 2*** we can see the sentiment analysis of each question. The blue bars show the polarity on a scale from -1 to 1, where -1 shows negative emotion, 0 is neutral or no emotion, and  1 represents postive emotion. The green bars show the subjectivity on a scale 0 to 1, where 0 means that the sentiment is objective(fact) and 1 means that the sentiment is subjective(open to interpritation). 
+- Here in ***figure 2*** we can see the sentiment analysis of each question. The blue bars show the polarity on a scale from -1 to 1, where -1 shows negative emotion, 0 is neutral or no emotion, and  1 represents positive emotion. The green bars show the subjectivity on a scale 0 to 1, where 0 means that the sentiment is objective(fact) and 1 means that the sentiment is subjective(open to interpretation).
+
+
+---
+---
 
 
 #### ***Figure 3:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/26.embed"></iframe>
 
-- Above in ***figure 3*** we can see generaly how much time was spent on tests by countries population of test results.
+- Above in ***figure 3*** we can see generally how much time was spent on tests by countries population of test results.
 
 
 ---
@@ -166,7 +170,7 @@ Another Ineresting finding was that Malaysia ranked highest is Extroversion and 
 ---
 
 
-- #### Here is a quick video that has a fun way of explaing traits a little further:
+- #### Here is a quick video that has a fun way of explaining traits a little further:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IB1FVbo8TSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
