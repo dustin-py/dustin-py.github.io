@@ -94,6 +94,11 @@ Here we will look at a specific test geared towards five base personality traits
 </tbody>
 </table>
 
+
+---
+---
+
+
 ## Now, time to explore:
 I wanted to know if there were significant  difference in base personality traits of individuals amongst a range of countries?
 
@@ -126,6 +131,10 @@ After observing the data in ***figure 1*** we can see that there are in fact sig
 Another Ineresting finding was that Malaysia ranked highest is Extroversion and Agreeableness, but to my suprise the countries overall ranking in Openness was one of the lowest amongst the countries.
 
 
+---
+---
+
+
 ## Why stop there!? Let's dig deeper!
 
 
@@ -146,9 +155,14 @@ Another Ineresting finding was that Malaysia ranked highest is Extroversion and 
 - Above in ***figure 3*** we can see generaly how much time was spent on tests by countries population of test results.
 
 
+---
+---
+
+
 ## Thanks for sticking around and I hope you were able to learn something from my findings! 
 
 
+---
 ---
 
 
