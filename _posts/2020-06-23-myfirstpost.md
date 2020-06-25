@@ -66,26 +66,27 @@ Here in ***figure 1*** we can see the sentiment analysis of each question. The b
 
 | Country Abbreviation | Country Name |
 | --- | --- |
-| US | United States  | 
-| GB | United Kingdom |
-| CA | Canada         |        
 | AU | Australia      |   
-| DE | Germany        |
-| IN | India          |
-| PH | Phillippines   |
-| MX | Mexico         |
-| NO | Norway         |
-| NL | Netherlands    |
-| SE | Sweden         |
-| MY | Malaysia       |
-| NZ | New Zealand    |
-| ID | Indonesia      |
 | BR | Brazil         |
-| SG | Singapor       |
-| FR | France         |
-| IT | Italy          |
+| CA | Canada         |        
+| DE | Germany        |
 | ES | Spain          |
+| FR | France         |
+| GB | United Kingdom |
+| ID | Indonesia      |
+| IN | India          |
+| IT | Italy          |
+| MX | Mexico         |
+| MY | Malaysia       |
+| NL | Netherlands    |
+| NO | Norway         |
+| NZ | New Zealand    |
+| PH | Phillippines   |
 | PL | Poland         |
+| SE | Sweden         |
+| SG | Singapor       |
+| US | United States  | 
+
 
 Above in ***figure 2*** is a heatmap displaying the average test scores per section from each of the top 20 countries with the most tests submitted. 
 
