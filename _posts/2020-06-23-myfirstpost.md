@@ -20,7 +20,7 @@ Here we will look at a specific test geared towards five base personality traits
 # **The Big Five**
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {background:none;border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:none;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cly1{text-align:left;vertical-align:middle}
