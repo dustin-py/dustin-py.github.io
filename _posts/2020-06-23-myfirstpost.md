@@ -76,6 +76,8 @@ Alternatively, I'll be analyzing the general personalities of the test score pop
 
 Above in ***figure 1*** is a heatmap displaying the average test scores per section from each of the top 20 countries with the most tests submitted. 
 
+## Here is a quick video that has a fun way of explaing traits a little further:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IB1FVbo8TSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### ***Figure 2:***
 Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
