@@ -86,6 +86,11 @@ Sentiment analysis is the interpretation and classification of emotions (positiv
 
 Here in ***figure 2*** we can see the sentiment analysis of each question. The blue bars show the polarity on a scale from -1 to 1, where -1 shows negative emotion, 0 is neutral or no emotion, and  1 represents postive emotion. The green bars show the subjectivity on a scale 0 to 1, where 0 means that the sentiment is objective(fact) and 1 means that the sentiment is subjective(open to interpritation). 
 
+
+# Here is a link to the test if you would like to see where you land on this scale:
+<a href="https://openpsychometrics.org/tests/IPIP-BFFM/"></a>
+
+
 ## Sources:
 - <a href="https://colab.research.google.com/drive/1S1Py8KFCspoBv734XBdzFtnHsuo21GDF?usp=sharing">**IPython Notebook**</a>
 - <a href="https://www.kaggle.com/tunguz/big-five-personality-test">**Kaggle Dataset**</a>
