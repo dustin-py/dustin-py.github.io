@@ -66,7 +66,7 @@ Here in ***figure 1*** we can see the sentiment analysis of each question. The b
 
 
 | Country Abbreviation | Country Name | |  Country Abbreviation | Country Name |
-| --- | --- | |--- | ---|     
+| --- | --- | --- |--- | ---|     
 | AU | Australia      | | MX | Mexico         |  
 | BR | Brazil         | | MY | Malaysia       |
 | CA | Canada         | | NL | Netherlands    |       
