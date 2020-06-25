@@ -8,14 +8,14 @@ tags: [big,five,personalities]
 comments: true
 ---
 
-## Personality, the combination of characteristics or qualities that form an individual's distinctive character. These characteristics or qualities are personality traits, which reflect people's characteristic patterns of thoughts, feelings, and behaviors. Personality traits imply consistency and stability.
+Personality, the combination of characteristics or qualities that form an individual's distinctive character. These characteristics or qualities are personality traits, which reflect people's characteristic patterns of thoughts, feelings, and behaviors. Personality traits imply consistency and stability.
 
 <img src="https://i0.wp.com/themorningpeptalk.com//wp-content/uploads/2019/03/character.jpg?resize=640%2C640&ssl=1">
 
 
-### Here we will look at a specific test geared towards five base personality traits called, "The Big Five", also know as OCEAN.
+Here we will look at a specific test geared towards five base personality traits called, "The Big Five", also know as OCEAN.
 
-#### First let's examine the average personality traits from test results through out different countrie's. 
+First let's examine the average personality traits from test results through out different countrie's. 
 
 
 # **The Big Five**
@@ -44,7 +44,7 @@ comments: true
 
 ### ***Figure 1:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/15.embed"></iframe>
-#### Above in ***figure 1*** is a barchart displaying the average results of test scores in each trait by the top 20 countries that yeilded the most results. Also, to fine tune my observations this is only displaying test results from a single IP address. In other words, no test comes from the same network each is unique. The buttons on the right can be toggled to specify the trait that you would like to view. 
+Above in ***figure 1*** is a barchart displaying the average results of test scores in each trait by the top 20 countries that yeilded the most results. Also, to fine tune my observations this is only displaying test results from a single IP address. In other words, no test comes from the same network each is unique. The buttons on the right can be toggled to specify the trait that you would like to view. 
 
 
 | Country Abbreviation | Country Name | |  Country Abbreviation | Country Name |
@@ -59,7 +59,9 @@ comments: true
 | ID | Indonesia      | | SE | Sweden         |
 | IN | India          | | SG | Singapor       |
 | IT | Italy          | | US | United States  |
-> Country Abbreviation Table
+
+
+> Above: Country Abbreviation Table
 
 
 ## Here is a quick video that has a fun way of explaing traits a little further:
