@@ -8,11 +8,18 @@ tags: [big,five,personalities]
 comments: true
 ---
 
-The human brain, what a marvel, it named itself...... Stop and take that in for a moment. Ok, now that we've gotten that exesticial wonder out of the way, we can get started. 
+Personality, the combination of characteristics or qualities that form an individual's distinctive character.
+These characteristics or qualities are personality traits, which reflect people's characteristic patterns of thoughts, feelings, and behaviors. 
+Personality traits imply consistency and stability.
 
-## Research Topic:
+Here we will look at a specific test geared towards five base personality traits called, "The Big Five", also know as OCEAN.
 
-<img src="https://cdn.pixabay.com/photo/2014/11/01/18/21/brain-512758__340.png">
+First let's examine the average personality traits from test results through out different countrie's. 
+
+
+
+
+<img src="https://i0.wp.com/themorningpeptalk.com//wp-content/uploads/2019/03/character.jpg?resize=640%2C640&ssl=1">
 
 
 # **The Big Five**
@@ -50,15 +57,6 @@ Alternatively, I'll be analyzing the general personalities of the test score pop
 
 
 ### ***Figure 1:***
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/13.embed"></iframe>
-
-Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
-
-
-Here in ***figure 1*** we can see the sentiment analysis of each question. The blue bars show the polarity on a scale from -1 to 1, where -1 shows negative emotion, 0 is neutral or no emotion, and  1 represents postive emotion. The green bars show the subjectivity on a scale 0 to 1, where 0 means that the sentiment is objective(fact) and 1 means that the sentiment is subjective(open to interpritation). 
-
-
-### ***Figure 2:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/15.embed"></iframe>
 
 
@@ -76,8 +74,15 @@ Here in ***figure 1*** we can see the sentiment analysis of each question. The b
 | IT | Italy          | | US | United States  |
 
 
+Above in ***figure 1*** is a heatmap displaying the average test scores per section from each of the top 20 countries with the most tests submitted. 
 
-Above in ***figure 2*** is a heatmap displaying the average test scores per section from each of the top 20 countries with the most tests submitted. 
+
+### ***Figure 2:***
+Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/13.embed"></iframe>
+
+Here in ***figure 2*** we can see the sentiment analysis of each question. The blue bars show the polarity on a scale from -1 to 1, where -1 shows negative emotion, 0 is neutral or no emotion, and  1 represents postive emotion. The green bars show the subjectivity on a scale 0 to 1, where 0 means that the sentiment is objective(fact) and 1 means that the sentiment is subjective(open to interpritation). 
 
 ## Sources:
 - <a href="https://colab.research.google.com/drive/1S1Py8KFCspoBv734XBdzFtnHsuo21GDF?usp=sharing">**IPython Notebook**</a>
