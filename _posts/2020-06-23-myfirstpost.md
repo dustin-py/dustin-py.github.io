@@ -10,6 +10,10 @@ comments: true
 
 Personality, the combination of characteristics or qualities that form an individual's distinctive character. These characteristics or qualities are personality traits, which reflect people's characteristic patterns of thoughts, feelings, and behaviors. Personality traits imply consistency and stability.
 
+## Question: 
+Does an individuales surroundings determine the base personality traits that the idividual will likely have?
+
+
 <img src="https://i0.wp.com/themorningpeptalk.com//wp-content/uploads/2019/03/character.jpg?resize=640%2C640&ssl=1">
 
 
@@ -78,11 +82,8 @@ Sentiment analysis is the interpretation and classification of emotions (positiv
 Here in ***figure 2*** we can see the sentiment analysis of each question. The blue bars show the polarity on a scale from -1 to 1, where -1 shows negative emotion, 0 is neutral or no emotion, and  1 represents postive emotion. The green bars show the subjectivity on a scale 0 to 1, where 0 means that the sentiment is objective(fact) and 1 means that the sentiment is subjective(open to interpritation). 
 
 
-# Here is a link to the test if you would like to see where you land on this scale:
-<a href="https://openpsychometrics.org/tests/IPIP-BFFM/"></a>
-
-
 ## Sources:
+- <a href="https://openpsychometrics.org/tests/IPIP-BFFM/">Take the Test yourself!</a>
 - <a href="https://colab.research.google.com/drive/1S1Py8KFCspoBv734XBdzFtnHsuo21GDF?usp=sharing">**IPython Notebook**</a>
 - <a href="https://www.kaggle.com/tunguz/big-five-personality-test">**Kaggle Dataset**</a>
 - <a href="https://sustainablesources.com/resources/country-abbreviations/">**Country Abbreviations**</a>
