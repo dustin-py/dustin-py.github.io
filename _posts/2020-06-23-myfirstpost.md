@@ -8,9 +8,6 @@ tags: [big,five,personalities]
 comments: true
 ---
 
-Personality, the combination of characteristics or qualities that form an individual's distinctive character. These characteristics or qualities are personality traits, which reflect people's characteristic patterns of thoughts, feelings, and behaviors. Personality traits imply consistency and stability.
-
-
 ## Question: 
 Is there a large difference in base personality traits of individuals amongst a range of countries?
 
@@ -18,11 +15,10 @@ Is there a large difference in base personality traits of individuals amongst a 
 <img src="https://i0.wp.com/themorningpeptalk.com//wp-content/uploads/2019/03/character.jpg?resize=640%2C640&ssl=1">
 
 
+Personality, the combination of characteristics or qualities that form an individual's distinctive character. These characteristics or qualities are personality traits, which reflect people's characteristic patterns of thoughts, feelings, and behaviors. Personality traits imply consistency and stability.
 
 
 Here we will look at a specific test geared towards five base personality traits called, "The Big Five", also know as OCEAN.
-
-First let's examine the average personality traits from test results through out different countrie's. 
 
 
 # **The Big Five**
@@ -47,6 +43,12 @@ First let's examine the average personality traits from test results through out
 |**Openness** ||
 |<ins>Open Individuales:</ins> | Traits: inquisitive, imaginative, curious, etc.|
 |<ins>Closed Individales:</ins> | Traits: consistent, cautious, ect.|
+
+
+>
+>
+>
+>
 
 
 ### ***Figure 1:***
