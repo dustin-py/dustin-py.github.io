@@ -20,72 +20,70 @@ Here we will look at a specific test geared towards five base personality traits
 # **The Big Five**
 
 <style type="text/css">
-.tg  {background:none;border-collapse:collapse;border-spacing:0;}
-.tg td{background-color: rgba(0, 0, 0, 0.0);border-color:none;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
 .tg .tg-uca5{text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:left}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-uog8{border-color:inherit;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
-<tr>
-    <td class="tg-g7sd"><b>Extraversion</b></td>
-</tr>
 <tbody>
   <tr>
-    <td class="tg-uog8"><ins>Extraverted Individuales:</ins></td>
-    <td class="tg-lboi">Traits: energetic, talkative, assertive, etc.</td>
+    <td class="tg-yla0" colspan="2">                                        Extraversion</td>
   </tr>
   <tr>
-    <td class="tg-uog8"><ins>Introverted Indeviduales:</ins></td>
-    <td class="tg-lboi">Traits: quiet, withheld , thoughtful, etc.</td>
+    <td class="tg-uca5">Extraverted Individuales:</td>
+    <td class="tg-cly1">Traits: energetic, talkative, assertive, etc.</td>
   </tr>
   <tr>
-    <td class="tg-cly1"><b>Neuroticism</b></td>
+    <td class="tg-uca5">Introverted Indeviduales:</td>
+    <td class="tg-cly1">Traits: quiet, withheld , thoughtful, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5"><ins>Neurotic Individuales:</ins></td>
+    <td class="tg-yla0" colspan="2">                                         Neuroticism</td>
+  </tr>
+  <tr>
+    <td class="tg-uca5">Neurotic Individuales:</td>
     <td class="tg-cly1">Traits: irrational, anxious, moody, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5"><ins>Non-Neurotic Individales:</ins></td>
+    <td class="tg-uca5">Non-Neurotic Individales:</td>
     <td class="tg-cly1">Traits: confident, relaxed, emotionaly stable, etc.</td>
   </tr>
   <tr>
-    <td class="tg-cly1"><b>Agreeableness</b></td>
+    <td class="tg-yla0" colspan="2">                                       Agreeableness</td>
   </tr>
   <tr>
-    <td class="tg-uca5"><ins>Agreeable Individuales:</ins></td>
+    <td class="tg-uca5">Agreeable Individuales:</td>
     <td class="tg-cly1">Traits: cooperative, warm, considerate, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5"><ins>Dissagreeable Individales:</ins></td>
+    <td class="tg-uca5">Dissagreeable Individales:</td>
     <td class="tg-cly1">Traits: challenging, opposing, etc.</td>
   </tr>
   <tr>
-    <span><td class="tg-cly1"><b>Conscientiousness</b></td></span>
+    <td class="tg-yla0" colspan="2">                                   Conscientiousness</td>
   </tr>
   <tr>
-    <td class="tg-uca5"><ins>Conscientious Individuales:</ins></td>
+    <td class="tg-uca5">Conscientious Individuales:</td>
     <td class="tg-cly1">Traits: organized, methodic, thorough, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5"><ins>Less conscientious Individales:</ins></td>
+    <td class="tg-uca5">Less conscientious Individales:</td>
     <td class="tg-cly1">Traits: chaotic, messy, etc.</td>
   </tr>
   <tr>
-    <td class="tg-cly1"><b>Openness</b></td>
+    <td class="tg-yla0" colspan="2">                                          Openness</td>
   </tr>
   <tr>
-    <td class="tg-uca5"><ins>Open Individuales:</ins></td>
+    <td class="tg-uca5">Open Individuales:</td>
     <td class="tg-cly1">Traits: inquisitive, imaginative, curious, etc.</td>
   </tr>
   <tr>
-    <td class="tg-uca5"><ins>Closed Individales:</ins></td>
+    <td class="tg-uca5">Closed Individales:</td>
     <td class="tg-cly1">Traits: consistent, cautious, ect.</td>
   </tr>
 </tbody>
