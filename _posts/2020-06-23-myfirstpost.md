@@ -66,7 +66,7 @@ Here in ***figure 1*** we can see the sentiment analysis of each question. The b
 
 Above in ***figure 2*** is a heatmap displaying the average test scores per section from each of the top 20 countries with the most tests submitted. 
 
-## **Sources:**
+## Sources:
 - <a href="https://colab.research.google.com/drive/1S1Py8KFCspoBv734XBdzFtnHsuo21GDF?usp=sharing">**IPython Notebook**</a>
 - <a href="https://www.kaggle.com/tunguz/big-five-personality-test">**Kaggle Dataset**</a>
 - <a href="https://sustainablesources.com/resources/country-abbreviations/">**Country Abbreviations**</a>
