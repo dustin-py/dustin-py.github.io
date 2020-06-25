@@ -8,7 +8,7 @@ tags: [big,five,personalities]
 comments: true
 ---
 
-<img src="https://b7.pngbarn.com/png/123/746/mind-games-brain-mind-games-free-dices-game-lost-dots-best-brain-games-brain-png-clip-art-thumbnail.png">
+<img src="https://github.com/dustin-py/dustin-py.github.io/blob/master/assets/img/FAVPNG_digital-marketing-concept-%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99%D7%94-personality-mind_bvLe4E4P.png"></img>
 
 
 Personality, the combination of characteristics or qualities that form an individual's distinctive character. These characteristics or qualities are personality traits, which reflect people's characteristic patterns of thoughts, feelings, and behaviors. Personality traits imply consistency and stability.
@@ -139,3 +139,4 @@ Here in ***figure 2*** we can see the sentiment analysis of each question. The b
 - <a href="https://sustainablesources.com/resources/country-abbreviations/">**Country Abbreviations**</a>
 - <a href="https://en.wikipedia.org/wiki/Big_Five_personality_traits">**Big Five Wiki**</a>
 - <a href="https://www.123test.com/big-five-personality-theory/">**Extra Info**</a>    
+- <a href="https://favpng.com/">**Images**</a>
