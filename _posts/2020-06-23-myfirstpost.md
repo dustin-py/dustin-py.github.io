@@ -94,7 +94,10 @@ Here we will look at a specific test geared towards five base personality traits
 </tbody>
 </table>
 
-### ***Figure 1:***
+## Now, time to explore:
+I wanted to know if there were significant  difference in base personality traits of individuals amongst a range of countries?
+
+#### ***Figure 1:***
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/15.embed"></iframe>
 
 
@@ -118,9 +121,12 @@ Above in ***figure 1*** is a barchart displaying the average results of test sco
 > Above: Country Abbreviation Table
 
 
-## Here is a quick video that has a fun way of explaing traits a little further:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IB1FVbo8TSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Conclusion:
+After observing the data in ***figure 1*** we can see that there are in fact significant differences in base personality traits depending on the country the individual test taker was from. 
+Another Ineresting finding was that Malaysia ranked highest is Extroversion and Agreeableness, but to my suprise the countries overall ranking in Openness was one of the lowest amongst the countries.
 
+
+## Why stop there!? Let's dig deeper!
 
 
 
@@ -130,6 +136,12 @@ Sentiment analysis is the interpretation and classification of emotions (positiv
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/13.embed"></iframe>
 
 Here in ***figure 2*** we can see the sentiment analysis of each question. The blue bars show the polarity on a scale from -1 to 1, where -1 shows negative emotion, 0 is neutral or no emotion, and  1 represents postive emotion. The green bars show the subjectivity on a scale 0 to 1, where 0 means that the sentiment is objective(fact) and 1 means that the sentiment is subjective(open to interpritation). 
+
+
+
+## Here is a quick video that has a fun way of explaing traits a little further:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IB1FVbo8TSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Sources:
