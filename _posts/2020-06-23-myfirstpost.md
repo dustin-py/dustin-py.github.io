@@ -140,6 +140,11 @@ Another Ineresting finding was that Malaysia ranked highest is Extroversion and 
 Here in ***figure 2*** we can see the sentiment analysis of each question. The blue bars show the polarity on a scale from -1 to 1, where -1 shows negative emotion, 0 is neutral or no emotion, and  1 represents postive emotion. The green bars show the subjectivity on a scale 0 to 1, where 0 means that the sentiment is objective(fact) and 1 means that the sentiment is subjective(open to interpritation). 
 
 
+#### ***Figure 3:***
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dustinstri92/26.embed"></iframe>
+
+Above in ***figure 3*** we can see generaly how much time was spent on tests by countries population of test results.
+
 
 ## Here is a quick video that has a fun way of explaing traits a little further:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IB1FVbo8TSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
