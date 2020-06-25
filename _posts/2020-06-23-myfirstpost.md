@@ -40,7 +40,7 @@ Here we will look at a specific test geared towards five base personality traits
 |<ins>Open Individuales:</ins> | Traits: inquisitive, imaginative, curious, etc.|
 |<ins>Closed Individales:</ins> | Traits: consistent, cautious, ect.|
 
-style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
